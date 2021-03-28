@@ -1,0 +1,15 @@
+.contacts {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    padding: 30px 0;
+    min-height: 700px;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: rgb(220, 241, 26);
+    color: rgb(51, 24, 24);
+    border-radius: 3px;
+}

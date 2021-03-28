@@ -1,0 +1,15 @@
+.table {
+    border: 3px solid #000;
+    border-radius: 5px;
+    background-color: rgba(50, 241, 226, 0.4);
+    margin-bottom: 20px;
+}
+
+.open {
+    text-align: center;
+}
+
+.close {
+    display: none;
+    height: 0;
+}
